@@ -7,4 +7,6 @@ Hola, como está todo el mundo digital hoy?
 
 Acabo de editar este archivo desde wsl ubunto... el comando para acceder es poner vi nombredelarchivo
 
-El partido de méxico termino con victoria, sin embargo no alcanzo para poder pasar a la siguiente ronda... 
+El partido de méxico termino con victoria, sin embargo no alcanzo para poder pasar a la siguiente ronda...
+
+Mostrando el repostirio local a la gordi :p
