@@ -6,9 +6,14 @@ Hola, como está todo el mundo digital hoy?
 //El partido terminó en empate, aún quedan 2 más, para lograr la ansiada clasificación//
 
 Acabo de editar este archivo desde wsl ubunto... el comando para acceder es poner vi nombredelarchivo
-
+	
 El partido de méxico termino con victoria, sin embargo no alcanzo para poder pasar a la siguiente ronda...
 
 Probando de nuevo hacer un push desde WSL, intento 532869834058
 
 Hola mundo, escribo desde la WSL Ubuntu... La terminal es una joya
+
+Hola, acabamos de acceder a este archivo desde vim, que bueno que guarde como acceder con el comando.
+
+Dejo la forma de salir de Vim 
+1. Shift + z + z
